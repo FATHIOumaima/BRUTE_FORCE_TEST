@@ -7,6 +7,12 @@
     You need a password dictionary
     You need to have node.js 
     You should use the puppeteer dependency
+    WordPress
+
+# Install
+    Install node.js
+    Run npm install
+    Run npm i puppeteer
 
 # Usage
     Run npm run start
